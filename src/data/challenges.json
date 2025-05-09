@@ -1,0 +1,53 @@
+[
+  {
+    "id": 1,
+    "name": "Morning Run",
+    "joined": true,
+    "days": 5,
+    "streak": 0,
+    "users": [{ "name": "Alice", "streak": 3 }]
+  },
+  {
+    "id": 2,
+    "name": "Meditation",
+    "joined": false,
+    "days": 10,
+    "streak": 0,
+    "users": [{ "name": "Bob", "streak": 5 }]
+  },
+  {
+    "id": 3,
+    "name": "No Sugar",
+    "joined": true,
+    "days": 7,
+    "streak": 0,
+    "users": [
+      { "name": "Alice", "streak": 1 },
+      { "name": "Eve", "streak": 4 }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Stretching",
+    "joined": false,
+    "days": 3,
+    "streak": 0,
+    "users": []
+  },
+  {
+    "id": 5,
+    "name": "Journal Writing",
+    "joined": true,
+    "days": 6,
+    "streak": 0,
+    "users": [{ "name": "John", "streak": 2 }]
+  },
+  {
+    "id": 6,
+    "name": "Healthy Breakfast",
+    "joined": false,
+    "days": 4,
+    "streak": 0,
+    "users": [{ "name": "Mark", "streak": 3 }]
+  }
+]

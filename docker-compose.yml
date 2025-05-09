@@ -1,0 +1,15 @@
+services:
+  frontend:
+    build:
+      context: ./
+      dockerfile: Dockerfile.dev
+    ports:
+      - "5173:5173"
+    volumes:
+      - ./:/HabitTracker_Frontend
+      - HabitTracker_Frontend_node_modules:/HabitTracker_Frontend/node_modules
+
+    environment:
+      - CHOKIDAR_USEPOLLING=true
+volumes:
+  HabitTracker_Frontend_node_modules:

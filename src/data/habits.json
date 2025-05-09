@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Drink water",
+    "streak": 3,
+    "target": 5,
+    "lastChecked": "Fri, 09 May 2025 07:56:27 GMT"
+  },
+  {
+    "id": 2,
+    "name": "Read book",
+    "streak": 2,
+    "target": 3,
+    "lastChecked": "Fri, 09 May 2025 07:56:27 GMT"
+  },
+  {
+    "id": 3,
+    "name": "Exercise",
+    "streak": 1,
+    "target": 4,
+    "lastChecked": "Fri, 09 May 2025 07:56:27 GMT"
+  },
+  {
+    "id": 4,
+    "name": "Meditate",
+    "streak": 0,
+    "target": 2,
+    "lastChecked": "Fri, 09 May 2025 07:56:27 GMT"
+  },
+  {
+    "id": 5,
+    "name": "No sugar",
+    "streak": 0,
+    "target": 7,
+    "lastChecked": "Fri, 09 May 2025 07:56:27 GMT"
+  }
+]
